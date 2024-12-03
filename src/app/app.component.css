@@ -1,0 +1,11 @@
+.card {
+  margin: 0.5em;
+}
+
+h2,h5,p{
+  font-family: cursive;
+}
+
+.container{
+  margin-bottom: 6em;
+}
